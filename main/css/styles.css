@@ -1,0 +1,40 @@
+body{
+    background-color: #03afb8;
+}
+
+.mapaComunas{
+  width: 50%;
+  margin: auto;
+}
+
+.mapaComunas path{
+  fill: #43aa00;
+  stroke: #8d3434;
+  stroke-width: 1px;
+}
+
+.mapaComunas path:hover{
+  fill: #f1eb1e;
+}
+
+
+/*
+Equipo html
+*/
+.parent {
+  display: grid;
+}
+
+.div1 { grid-area: 2 / 2 / 6 / 4; }
+.div2 { grid-area: 2 / 5 / 6 / 7; }
+.div3 { grid-area: 7 / 2 / 11 / 4; }
+.div4 { grid-area: 7 / 5 / 11 / 7; }
+
+.div1, .div2, .div3, .div4{
+  background-color: #C43549;
+  margin: 20px;
+}
+.imagen, .contenido{
+  background-color: #04B85B;
+  margin: 10px;
+}

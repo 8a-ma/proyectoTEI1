@@ -1,0 +1,224 @@
+[
+  {
+    "nombre": "Padre_Hurtado",
+    "problema1":54,
+    "problema2":28,
+    "problema3":40
+  },
+  {
+    "nombre": "Maipu",
+    "problema1":1,
+    "problema2":50,
+    "problema3":36
+  },
+  {
+    "nombre": "Cerrillos",
+    "problema1":74,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Estación_Central",
+    "problema1":34,
+    "problema2":100,
+    "problema3":21
+  },
+  {
+    "nombre": "Pudahuel",
+    "problema1":100,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Lo_Prado",
+    "problema1":14,
+    "problema2":30,
+    "problema3":100
+  },
+  {
+    "nombre": "Cerro_Navia",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Santiago",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Renca",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Quinta_Normal",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Recoleta",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Independencia",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Quilicura",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Conchali",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "San_Bernardo",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "El_Bosque",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "La_Cisterna",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Lo_Espejo",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Pedro_Aguirre_Cerda",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "San_Miguel",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "San_Ramon",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "La_Granja",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "San_Joaquin",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "La_Pintana",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Providencia",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Nunoa",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "La_Reina",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Macul",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Puente_Alto",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Pirque",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "San_Jose_de_Maipo",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "La_Florida",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Penalolen",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Las_Condes",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Vitacura",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Lo_Barnechea",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  },
+  {
+    "nombre": "Huechuraba",
+    "problema1":14,
+    "problema2":30,
+    "problema3":21
+  }
+]
