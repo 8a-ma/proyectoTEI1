@@ -1,3 +1,6 @@
+/*
+Index html
+*/
 body{
     background-color: #03afb8;
 }
@@ -16,7 +19,6 @@ body{
 .mapaComunas path:hover{
   fill: #f1eb1e;
 }
-
 
 /*
 Equipo html
