@@ -61,27 +61,17 @@ function problema3(datos) {
 
 var botones = document.querySelectorAll("button");
 for(i=0; i < botones.length; i++){
-  botones[i].onclick = function(){
-    if(this.id == "problema1"){
-      fetch('comunas.json')
-        .then(res => res.json())
-        .then(datos => {
-          window[this.id](datos);
-        })
-    }
-    else if(this.id == "problema2"){
-      fetch('comunas.json')
-        .then(res => res.json())
-        .then(datos => {
+  botones[i].onclick = function(){ //cambiar if's por switch
+    switch (this.id) {
+      case "problema1":
+      case "problema2":
+      case "problema3":
+        fetch('comunas.json')
+          .then(res => res.json())
+          .then(datos => {
             window[this.id](datos);
-        })
-    }
-    else if(this.id = "problema3"){
-      fetch('comunas.json')
-        .then(res => res.json())
-        .then(datos => {
-            window[this.id](datos);
-        })
+          })
+        break;
     }
   }
 }
