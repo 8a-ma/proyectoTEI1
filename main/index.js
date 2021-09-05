@@ -1,3 +1,24 @@
+function ordenarMayoMenor(json, key) {
+  json.sort(function (a, b) {
+    return a[key] < b[key];
+  });
+}
+
+function creadorTabla(json, key){
+  let myTbody = document.getElementById('myTbody');
+
+  myTbody.innerHTML = ' ';
+
+  for(let valores of json){
+    myTbody.innerHTML += `
+    <tr>
+      <td>${valores.nombre}</td>
+      <td>${valores[key]}</td>
+    </tr>
+    `
+  }
+}
+
 function problema1(datos) {
   for(let valores of datos){
     if(valores.problema1 <= 20){
@@ -16,6 +37,8 @@ function problema1(datos) {
       document.getElementById(valores.nombre).style.fill = '#44a800';
     }
   }
+  ordenarMayoMenor(datos, 'problema1');
+  creadorTabla(datos, 'problema1');
 }
 
 function problema2(datos) {
@@ -36,6 +59,8 @@ function problema2(datos) {
       document.getElementById(valores.nombre).style.fill = '#44a800';
     }
   }
+  ordenarMayoMenor(datos, 'problema2');
+  creadorTabla(datos, 'problema2');
 }
 
 function problema3(datos) {
@@ -56,12 +81,14 @@ function problema3(datos) {
       document.getElementById(valores.nombre).style.fill = '#44a800';
     }
   }
+  ordenarMayoMenor(datos, 'problema3');
+  creadorTabla(datos, 'problema3');
 }
 
 
 var botones = document.querySelectorAll("button");
 for(i=0; i < botones.length; i++){
-  botones[i].onclick = function(){ //cambiar if's por switch
+  botones[i].onclick = function(){
     switch (this.id) {
       case "problema1":
       case "problema2":
