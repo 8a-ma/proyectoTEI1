@@ -1,224 +1,335 @@
 [
   {
-    "nombre": "Padre_Hurtado",
-    "problema1":54,
-    "problema2":28,
-    "problema3":40
+    "nombre": "Padre Hurtado",
+    "IDSE":61,
+    "CONDICIONES_LABORALES":74,
+    "CONECTIVIDAD_Y_MOVILIDAD":58,
+    "SALUD_Y_MEDIO_AMBIENTE":48,
+    "VIVIENDA_Y_ENTORNO":32,
+    "ICVU":48
   },
   {
     "nombre": "Maipu",
-    "problema1":1,
-    "problema2":50,
-    "problema3":36
+    "IDSE":74,
+    "CONDICIONES_LABORALES":73,
+    "CONECTIVIDAD_Y_MOVILIDAD":83,
+    "SALUD_Y_MEDIO_AMBIENTE":50,
+    "VIVIENDA_Y_ENTORNO":46,
+    "ICVU":56
   },
   {
     "nombre": "Cerrillos",
-    "problema1":74,
-    "problema2":30,
-    "problema3":21
+    "IDSE":68,
+    "CONDICIONES_LABORALES":61,
+    "CONECTIVIDAD_Y_MOVILIDAD":62,
+    "SALUD_Y_MEDIO_AMBIENTE":50,
+    "VIVIENDA_Y_ENTORNO":31,
+    "ICVU":48
   },
   {
-    "nombre": "Estación_Central",
-    "problema1":34,
-    "problema2":100,
-    "problema3":21
+    "nombre": "Estación Central",
+    "IDSE":69,
+    "CONDICIONES_LABORALES":72,
+    "CONECTIVIDAD_Y_MOVILIDAD":68,
+    "SALUD_Y_MEDIO_AMBIENTE":42,
+    "VIVIENDA_Y_ENTORNO":25,
+    "ICVU":50
   },
   {
     "nombre": "Pudahuel",
-    "problema1":100,
-    "problema2":30,
-    "problema3":21
+    "IDSE":67,
+    "CONDICIONES_LABORALES":67,
+    "CONECTIVIDAD_Y_MOVILIDAD":68,
+    "SALUD_Y_MEDIO_AMBIENTE":58,
+    "VIVIENDA_Y_ENTORNO":36,
+    "ICVU":51
   },
   {
-    "nombre": "Lo_Prado",
-    "problema1":14,
-    "problema2":30,
-    "problema3":100
+    "nombre": "Lo Prado",
+    "IDSE":65,
+    "CONDICIONES_LABORALES":56,
+    "CONECTIVIDAD_Y_MOVILIDAD":80,
+    "SALUD_Y_MEDIO_AMBIENTE":63,
+    "VIVIENDA_Y_ENTORNO":24,
+    "ICVU":47
   },
   {
-    "nombre": "Cerro_Navia",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "Cerro Navia",
+    "IDSE":56,
+    "CONDICIONES_LABORALES":48,
+    "CONECTIVIDAD_Y_MOVILIDAD":75,
+    "SALUD_Y_MEDIO_AMBIENTE":63,
+    "VIVIENDA_Y_ENTORNO":22,
+    "ICVU":42
   },
   {
     "nombre": "Santiago",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":83,
+    "CONDICIONES_LABORALES":79,
+    "CONECTIVIDAD_Y_MOVILIDAD":78,
+    "SALUD_Y_MEDIO_AMBIENTE":48,
+    "VIVIENDA_Y_ENTORNO":47,
+    "ICVU":59
   },
   {
     "nombre": "Renca",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":67,
+    "CONDICIONES_LABORALES":51,
+    "CONECTIVIDAD_Y_MOVILIDAD":72,
+    "SALUD_Y_MEDIO_AMBIENTE":65,
+    "VIVIENDA_Y_ENTORNO":28,
+    "ICVU":47
   },
   {
-    "nombre": "Quinta_Normal",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "Quinta Normal",
+    "IDSE":68,
+    "CONDICIONES_LABORALES":58,
+    "CONECTIVIDAD_Y_MOVILIDAD":72,
+    "SALUD_Y_MEDIO_AMBIENTE":36,
+    "VIVIENDA_Y_ENTORNO":24,
+    "ICVU":46
   },
   {
     "nombre": "Recoleta",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":63,
+    "CONDICIONES_LABORALES":65,
+    "CONECTIVIDAD_Y_MOVILIDAD":83,
+    "SALUD_Y_MEDIO_AMBIENTE":56,
+    "VIVIENDA_Y_ENTORNO":23,
+    "ICVU":52
   },
   {
     "nombre": "Independencia",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":73,
+    "CONDICIONES_LABORALES":71,
+    "CONECTIVIDAD_Y_MOVILIDAD":82,
+    "SALUD_Y_MEDIO_AMBIENTE":49,
+    "VIVIENDA_Y_ENTORNO":12,
+    "ICVU":50
   },
   {
     "nombre": "Quilicura",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":69,
+    "CONDICIONES_LABORALES":84,
+    "CONECTIVIDAD_Y_MOVILIDAD":80,
+    "SALUD_Y_MEDIO_AMBIENTE":59,
+    "VIVIENDA_Y_ENTORNO":37,
+    "ICVU":56
   },
   {
     "nombre": "Conchali",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":66,
+    "CONDICIONES_LABORALES":51,
+    "CONECTIVIDAD_Y_MOVILIDAD":81,
+    "SALUD_Y_MEDIO_AMBIENTE":59,
+    "VIVIENDA_Y_ENTORNO":27,
+    "ICVU":47
   },
   {
-    "nombre": "San_Bernardo",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "San Bernardo",
+    "IDSE":60,
+    "CONDICIONES_LABORALES":67,
+    "CONECTIVIDAD_Y_MOVILIDAD":73,
+    "SALUD_Y_MEDIO_AMBIENTE":60,
+    "VIVIENDA_Y_ENTORNO":34,
+    "ICVU":51
   },
   {
-    "nombre": "El_Bosque",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "El Bosque",
+    "IDSE":61,
+    "CONDICIONES_LABORALES":66,
+    "CONECTIVIDAD_Y_MOVILIDAD":72,
+    "SALUD_Y_MEDIO_AMBIENTE":69,
+    "VIVIENDA_Y_ENTORNO":24,
+    "ICVU":49
   },
   {
-    "nombre": "La_Cisterna",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "La Cisterna",
+    "IDSE":72,
+    "CONDICIONES_LABORALES":64,
+    "CONECTIVIDAD_Y_MOVILIDAD":81,
+    "SALUD_Y_MEDIO_AMBIENTE":44,
+    "VIVIENDA_Y_ENTORNO":27,
+    "ICVU":52
   },
   {
-    "nombre": "Lo_Espejo",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "Lo Espejo",
+    "IDSE":60,
+    "CONDICIONES_LABORALES":49,
+    "CONECTIVIDAD_Y_MOVILIDAD":69,
+    "SALUD_Y_MEDIO_AMBIENTE":60,
+    "VIVIENDA_Y_ENTORNO":17,
+    "ICVU":39
   },
   {
-    "nombre": "Pedro_Aguirre_Cerda",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "Pedro Aguirre Cerda",
+    "IDSE":66,
+    "CONDICIONES_LABORALES":55,
+    "CONECTIVIDAD_Y_MOVILIDAD":82,
+    "SALUD_Y_MEDIO_AMBIENTE":64,
+    "VIVIENDA_Y_ENTORNO":20,
+    "ICVU":48
   },
   {
-    "nombre": "San_Miguel",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "San Miguel",
+    "IDSE":78,
+    "CONDICIONES_LABORALES":66,
+    "CONECTIVIDAD_Y_MOVILIDAD":82,
+    "SALUD_Y_MEDIO_AMBIENTE":51,
+    "VIVIENDA_Y_ENTORNO":46,
+    "ICVU":59
   },
   {
-    "nombre": "San_Ramon",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "San Ramon",
+    "IDSE":56,
+    "CONDICIONES_LABORALES":45,
+    "CONECTIVIDAD_Y_MOVILIDAD":74,
+    "SALUD_Y_MEDIO_AMBIENTE":58,
+    "VIVIENDA_Y_ENTORNO":17,
+    "ICVU":41
   },
   {
-    "nombre": "La_Granja",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "La Granja",
+    "IDSE":59,
+    "CONDICIONES_LABORALES":56,
+    "CONECTIVIDAD_Y_MOVILIDAD":69,
+    "SALUD_Y_MEDIO_AMBIENTE":88,
+    "VIVIENDA_Y_ENTORNO":25,
+    "ICVU":52
   },
   {
-    "nombre": "San_Joaquin",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "San Joaquin",
+    "IDSE":64,
+    "CONDICIONES_LABORALES":56,
+    "CONECTIVIDAD_Y_MOVILIDAD":74,
+    "SALUD_Y_MEDIO_AMBIENTE":64,
+    "VIVIENDA_Y_ENTORNO":28,
+    "ICVU":52
   },
   {
-    "nombre": "La_Pintana",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "La Pintana",
+    "IDSE":56,
+    "CONDICIONES_LABORALES":48,
+    "CONECTIVIDAD_Y_MOVILIDAD":67,
+    "SALUD_Y_MEDIO_AMBIENTE":64,
+    "VIVIENDA_Y_ENTORNO":23,
+    "ICVU":38
   },
   {
     "nombre": "Providencia",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":97,
+    "CONDICIONES_LABORALES":74,
+    "CONECTIVIDAD_Y_MOVILIDAD":83,
+    "SALUD_Y_MEDIO_AMBIENTE":61,
+    "VIVIENDA_Y_ENTORNO":70,
+    "ICVU":69
   },
   {
     "nombre": "Nunoa",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":89,
+    "CONDICIONES_LABORALES":79,
+    "CONECTIVIDAD_Y_MOVILIDAD":83,
+    "SALUD_Y_MEDIO_AMBIENTE":57,
+    "VIVIENDA_Y_ENTORNO":62,
+    "ICVU":66
   },
   {
-    "nombre": "La_Reina",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "La Reina",
+    "IDSE":83,
+    "CONDICIONES_LABORALES":81,
+    "CONECTIVIDAD_Y_MOVILIDAD":89,
+    "SALUD_Y_MEDIO_AMBIENTE":73,
+    "VIVIENDA_Y_ENTORNO":58,
+    "ICVU":70
   },
   {
     "nombre": "Macul",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":68,
+    "CONDICIONES_LABORALES":72,
+    "CONECTIVIDAD_Y_MOVILIDAD":80,
+    "SALUD_Y_MEDIO_AMBIENTE":66,
+    "VIVIENDA_Y_ENTORNO":43,
+    "ICVU":62
   },
   {
-    "nombre": "Puente_Alto",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "Puente Alto",
+    "IDSE":68,
+    "CONDICIONES_LABORALES":68,
+    "CONECTIVIDAD_Y_MOVILIDAD":73,
+    "SALUD_Y_MEDIO_AMBIENTE":52,
+    "VIVIENDA_Y_ENTORNO":38,
+    "ICVU":49
   },
   {
     "nombre": "Pirque",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":65,
+    "CONDICIONES_LABORALES": 0,
+    "CONECTIVIDAD_Y_MOVILIDAD": 0,
+    "SALUD_Y_MEDIO_AMBIENTE": 0,
+    "VIVIENDA_Y_ENTORNO": 0,
+    "ICVU": 0
   },
   {
-    "nombre": "San_Jose_de_Maipo",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "San Jose de Maipo",
+    "IDSE":65,
+    "CONDICIONES_LABORALES": 0,
+    "CONECTIVIDAD_Y_MOVILIDAD": 0,
+    "SALUD_Y_MEDIO_AMBIENTE": 0,
+    "VIVIENDA_Y_ENTORNO": 0,
+    "ICVU": 0
   },
   {
-    "nombre": "La_Florida",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "La Florida",
+    "IDSE":74,
+    "CONDICIONES_LABORALES":66,
+    "CONECTIVIDAD_Y_MOVILIDAD":85,
+    "SALUD_Y_MEDIO_AMBIENTE":58,
+    "VIVIENDA_Y_ENTORNO":45,
+    "ICVU":57
   },
   {
     "nombre": "Penalolen",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":67,
+    "CONDICIONES_LABORALES":60,
+    "CONECTIVIDAD_Y_MOVILIDAD":82,
+    "SALUD_Y_MEDIO_AMBIENTE":50,
+    "VIVIENDA_Y_ENTORNO":41,
+    "ICVU":54
   },
   {
-    "nombre": "Las_Condes",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "Las Condes",
+    "IDSE":97,
+    "CONDICIONES_LABORALES":85,
+    "CONECTIVIDAD_Y_MOVILIDAD":86,
+    "SALUD_Y_MEDIO_AMBIENTE":59,
+    "VIVIENDA_Y_ENTORNO":85,
+    "ICVU":75
   },
   {
     "nombre": "Vitacura",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":99,
+    "CONDICIONES_LABORALES":86,
+    "CONECTIVIDAD_Y_MOVILIDAD":83,
+    "SALUD_Y_MEDIO_AMBIENTE":66,
+    "VIVIENDA_Y_ENTORNO":85,
+    "ICVU":76
   },
   {
-    "nombre": "Lo_Barnechea",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "nombre": "Lo Barnechea",
+    "IDSE":80,
+    "CONDICIONES_LABORALES":72,
+    "CONECTIVIDAD_Y_MOVILIDAD":84,
+    "SALUD_Y_MEDIO_AMBIENTE":59,
+    "VIVIENDA_Y_ENTORNO":86,
+    "ICVU":69
   },
   {
     "nombre": "Huechuraba",
-    "problema1":14,
-    "problema2":30,
-    "problema3":21
+    "IDSE":66,
+    "CONDICIONES_LABORALES":59,
+    "CONECTIVIDAD_Y_MOVILIDAD":82,
+    "SALUD_Y_MEDIO_AMBIENTE":68,
+    "VIVIENDA_Y_ENTORNO":49,
+    "ICVU":56
   }
 ]
